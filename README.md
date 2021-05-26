@@ -1,2 +1,2 @@
-# v2ray
-v2ray subscribe link 
+# subscribe link
+personal subscribe link 
